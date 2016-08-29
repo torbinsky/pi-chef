@@ -1,0 +1,6 @@
+{
+    "run_list": [
+      "recipe[poise-python::default]",
+      "recipe[dht22::default]"
+    ]
+}
